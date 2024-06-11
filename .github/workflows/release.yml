@@ -13,7 +13,7 @@ jobs:
         os: [ ubuntu-latest, macos-latest, windows-latest ]
         include:
           - os: ubuntu-latest
-            release_suffix: ubuntu
+            release_suffix: linux
           - os: macos-latest
             release_suffix: darwin
           - os: windows-latest
