@@ -1,5 +1,5 @@
-name: aws-scan
-repository: github.com/aquasecurity/trivy-aws
+name: aws
+repository: github.com/simar7/trivy-aws
 maintainer: aquasecurity
 summary: Trivy AWS Cloud scanning plugin
 version: "0.11.0"
